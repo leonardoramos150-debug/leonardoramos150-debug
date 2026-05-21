@@ -1,4 +1,4 @@
-# Leonardo Ramos 👋
+# Leonardo Ramos 
 
 Estudante de Desenvolvimento de Sistemas (TDS) no SENAI focado em desenvolvimento web e criação de interfaces.
 
